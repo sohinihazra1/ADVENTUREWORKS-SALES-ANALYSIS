@@ -65,12 +65,14 @@ The following cleaning steps were performed:
 - The business generated over *$24 million in total revenue* during the analysis period.
 - Overall profitability remained strong, with a *profit margin of approximately 41.8%*.
 - Revenue and profit showed consistent growth throughout the three-year period, indicating healthy business performance.
+![Business Overview Dashboard](Images/sales-overview.png)
 
 ### Product Performance
 
 - *Bikes* were the highest-performing product category and contributed the largest share of overall revenue.
 - The *Components* category generated little to no revenue compared to other categories, highlighting a potential opportunity for product promotion and market analysis.
 - Product preferences varied across countries, suggesting opportunities for region-specific marketing and inventory strategies.
+![Product Performance Dashboard](Images/product-performance.png)
 
 ### Geographic Performance
 
@@ -83,6 +85,7 @@ The following cleaning steps were performed:
 - A total of *732 registered customers* had never placed an order.
 - Customer purchasing behavior varied across demographic groups such as income level, occupation, education level, and family size.
 - A relatively small group of customers contributed a significant share of total revenue.
+![Customer Analysis Dashboard](Images/customer-analysis.png)
 
 ### Returns Analysis
 
@@ -90,7 +93,7 @@ The following cleaning steps were performed:
 - Product returns resulted in approximately *$765.28K in lost revenue*.
 - Products such as *Tire Tubes, Bottle Cages, and Road Bikes* were among the most frequently returned items.
 - Returns were concentrated within specific products and regions, indicating potential quality, product-fit, or customer expectation issues.
-
+![Returns Analysis Dashboard](Images/returns-analysis.png)
 ---
 
 ## Business Recommendations

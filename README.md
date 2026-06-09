@@ -65,7 +65,7 @@ The following cleaning steps were performed:
 - The business generated over *$24 million in total revenue* during the analysis period.
 - Overall profitability remained strong, with a *profit margin of approximately 41.8%*.
 - Revenue and profit showed consistent growth throughout the three-year period, indicating healthy business performance.
-![Business Overview Dashboard](Images/sales-overview.png)
+![Sales Overview Dashboard]<img width="976" height="546" alt="sales-overview" src="https://github.com/user-attachments/assets/cde70820-d940-4f9d-882c-fe0511f9cdba" />
 
 ### Product Performance
 

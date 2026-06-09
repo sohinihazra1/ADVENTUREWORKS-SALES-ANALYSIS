@@ -65,6 +65,7 @@ The following cleaning steps were performed:
 - The business generated over *$24 million in total revenue* during the analysis period.
 - Overall profitability remained strong, with a *profit margin of approximately 41.8%*.
 - Revenue and profit showed consistent growth throughout the three-year period, indicating healthy business performance.
+  
 ![Sales Overview Dashboard]<img width="976" height="546" alt="sales-overview" src="https://github.com/user-attachments/assets/cde70820-d940-4f9d-882c-fe0511f9cdba" />
 
 ### Product Performance
@@ -72,7 +73,9 @@ The following cleaning steps were performed:
 - *Bikes* were the highest-performing product category and contributed the largest share of overall revenue.
 - The *Components* category generated little to no revenue compared to other categories, highlighting a potential opportunity for product promotion and market analysis.
 - Product preferences varied across countries, suggesting opportunities for region-specific marketing and inventory strategies.
-![Product Performance Dashboard](Images/product-performance.png)
+  
+![Product Performance Dashboard]<img width="974" height="549" alt="product-performance" src="https://github.com/user-attachments/assets/f6f8baff-f3cf-4b88-b64a-237cfac5cec9" />
+
 
 ### Geographic Performance
 
@@ -85,7 +88,8 @@ The following cleaning steps were performed:
 - A total of *732 registered customers* had never placed an order.
 - Customer purchasing behavior varied across demographic groups such as income level, occupation, education level, and family size.
 - A relatively small group of customers contributed a significant share of total revenue.
-![Customer Analysis Dashboard](Images/customer-analysis.png)
+  
+![Customer Analysis Dashboard]<img width="980" height="547" alt="customer-analysis" src="https://github.com/user-attachments/assets/04d5dae5-1033-4f73-8cb2-c604df9dfae6" />
 
 ### Returns Analysis
 
@@ -93,7 +97,9 @@ The following cleaning steps were performed:
 - Product returns resulted in approximately *$765.28K in lost revenue*.
 - Products such as *Tire Tubes, Bottle Cages, and Road Bikes* were among the most frequently returned items.
 - Returns were concentrated within specific products and regions, indicating potential quality, product-fit, or customer expectation issues.
-![Returns Analysis Dashboard](Images/returns-analysis.png)
+  
+![Returns Analysis Dashboard]<img width="977" height="554" alt="return-analysis" src="https://github.com/user-attachments/assets/1b6a6258-eb82-4deb-a604-d40ce86c3f5c" />
+
 ---
 
 ## Business Recommendations
